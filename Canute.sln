@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canute", "Canute\Canute.csproj", "{1E3C9760-4595-4144-BB2F-35A1C958FEEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canute9b9", "Canute9b9\Canute9b9.csproj", "{8980DEF6-4201-412A-8CF7-58E9F4F4F1FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3C9760-4595-4144-BB2F-35A1C958FEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3C9760-4595-4144-BB2F-35A1C958FEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3C9760-4595-4144-BB2F-35A1C958FEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3C9760-4595-4144-BB2F-35A1C958FEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8980DEF6-4201-412A-8CF7-58E9F4F4F1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8980DEF6-4201-412A-8CF7-58E9F4F4F1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8980DEF6-4201-412A-8CF7-58E9F4F4F1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8980DEF6-4201-412A-8CF7-58E9F4F4F1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
